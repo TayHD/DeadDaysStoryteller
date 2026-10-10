@@ -73,6 +73,9 @@ This mod is an add-on for [url=https://steamcommunity.com/sharedfiles/filedetail
 [h2]Extending it[/h2]
 Add-on mods can hook into the story server without editing Storyteller: [b]DDS.Server.addTicker(name, fn)[/b] runs code once a second, and [b]DDS.Server.addAdminOp(op, fn)[/b] handles admin commands. The source is on [url=https://github.com/TayHD/DeadDaysStoryteller]GitHub[/url] (MIT).
 
+[h2]Changelog[/h2]
+See the Change Notes tab on this page, or the full history in [url=https://github.com/TayHD/DeadDaysStoryteller/blob/main/CHANGELOG.md]CHANGELOG.md[/url].
+
 [h2]Status[/h2]
 Early release, in active development and played daily on our own server. Bug reports and feedback are very welcome in the comments.
 
