@@ -1,0 +1,80 @@
+[h1]Dead Days: Storyteller[/h1]
+[b]A dynamic, branching story campaign for Project Zomboid, built on Project A-Life.[/b]
+
+Every world gets its own story, generated from scratch when the first player joins: its own cast, its own factions, its own betrayals. No two playthroughs go the same way.
+
+[hr][/hr]
+
+[h2]REQUIRES PROJECT A-LIFE[/h2]
+This mod is an add-on for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3803984183]Project A-Life [ALIFE NPCS][/url] and will not run without it. Subscribe to A-Life first and load it before Dead Days.
+
+[b]Credit:[/b] every NPC you meet in Dead Days (the people, the factions, how they fight, talk and remember you) is Project A-Life's work. Dead Days doesn't copy, fork or replace any of it. It uses A-Life's NPCs, factions and reputation and adds a story on top. Huge thanks to the Project A-Life team. Please go rate and support their mod.
+
+[hr][/hr]
+
+[h2]A story that's different every time[/h2]
+[list]
+[*]A cast rolled from archetypes: a community leader, a medic, a raider warlord and their lieutenant, a military officer, an informant and a missing kid. Your warlord might be a psychotic or a provider; your officer might go by the book or be burned out. Their dialogue changes to match.
+[*]Factions drawn from A-Life's own faction list, so the raiders, the military and the community are real groups out in the world.
+[*]Twists planned from day one and kept hidden until they land: a mole in the camp, a military that has its own plans for the county.
+[*]Four acts and 34 chapters. Act III branches three ways: the community, the military or the warlord.
+[*]Optional chapters rolled per playthrough, so a second run plays out differently.
+[/list]
+
+[h2]Choices that matter[/h2]
+[list]
+[*]Branching dialogue with skill and occupation checks.
+[*]Your choices shift your standing with every faction, and that feeds A-Life's reputation system. Make enemies and they'll treat you like one.
+[*]Failing a chapter isn't a dead end. The raiders get stronger, the camp gets weaker, and the chapter comes back harder later.
+[/list]
+
+[h2]Missions[/h2]
+[list]
+[*]Rescues (go in loud, sneak in, or trade), recon, supply runs, bounties, sabotage, lockpicking, hand-ins, talking people down, votes, choose-a-side jobs and long-running projects.
+[*]Side leads and daily ops between story chapters.
+[*]Quest givers are real NPCs. They walk over to you, fight beside you, and the people the story needs can't be killed off by accident.
+[/list]
+
+[h2]Buddies[/h2]
+[list]
+[*]Recruit a companion who follows you, fights with you and reacts to what you do.
+[*]Each one has a loyalty arc with its own missions, and some jobs need a partner.
+[/list]
+
+[h2]Voiced radio and dialogue[/h2]
+[list]
+[*]Over 1,000 voiced lines, generated with AI voices (ElevenLabs) and shipped in the mod as small audio files, with radio static and call tones.
+[*]Grounded writing: tired people talking plainly about real problems.
+[/list]
+
+[h2]Built for multiplayer[/h2]
+[list]
+[*]Missions are shared with your in-game faction, so your group can work the same story together.
+[*]Convoys travel between towns, and you can come across them resting on the road under armed guard.
+[*]Every new character starts with a kit that fits their job. A police officer starts with a sidearm, a doctor with a medical bag.
+[/list]
+
+[hr][/hr]
+
+[h2]Requirements[/h2]
+[list]
+[*]Project Zomboid Build 42.21 or newer
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3803984183]Project A-Life [ALIFE NPCS][/url]
+[/list]
+
+[h2]How to play[/h2]
+[list]
+[*]Enable Project A-Life, then Dead Days: Storyteller.
+[*]Spawn in. A few seconds later the radio comes alive and your story starts.
+[*]Open the Journal (top right) for missions, buddies, factions and the story so far.
+[*]Options are in the sandbox settings under "Dead Days - Story" and "Dead Days - Convoys": buddy mortality, daily ops, side leads, convoys and more.
+[/list]
+
+[h2]Extending it[/h2]
+Add-on mods can hook into the story server without editing Storyteller: [b]DDS.Server.addTicker(name, fn)[/b] runs code once a second, and [b]DDS.Server.addAdminOp(op, fn)[/b] handles admin commands. The source is on [url=https://github.com/TayHD/DeadDaysStoryteller]GitHub[/url] (MIT).
+
+[h2]Status[/h2]
+Early release, in active development and played daily on our own server. Bug reports and feedback are very welcome in the comments.
+
+Workshop ID: 3816904815
+Mod ID: DeadDaysStoryteller

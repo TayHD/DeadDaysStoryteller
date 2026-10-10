@@ -1,0 +1,37 @@
+VERSION = 1,
+
+option DeadDaysStory.BuddyMortal = {
+    type = boolean, default = false,
+    page = DeadDaysStory_1Story, translation = DeadDaysStory.BuddyMortal,
+    _tooltip = DeadDaysStory.BuddyMortal_tooltip,
+}
+
+option DeadDaysStory.DailyOps = {
+    type = integer, min = 0, max = 5, default = 3,
+    page = DeadDaysStory_1Story, translation = DeadDaysStory.DailyOps,
+    _tooltip = DeadDaysStory.DailyOps_tooltip,
+}
+
+option DeadDaysStory.MaxLeads = {
+    type = integer, min = 1, max = 8, default = 4,
+    page = DeadDaysStory_1Story, translation = DeadDaysStory.MaxLeads,
+    _tooltip = DeadDaysStory.MaxLeads_tooltip,
+}
+
+option DeadDaysStory.IncidentRate = {
+    type = integer, min = 0, max = 100, default = 20,
+    page = DeadDaysStory_1Story, translation = DeadDaysStory.IncidentRate,
+    _tooltip = DeadDaysStory.IncidentRate_tooltip,
+}
+
+option DeadDaysStory.LockALifeCreator = {
+    type = boolean, default = true,
+    page = DeadDaysStory_1Story, translation = DeadDaysStory.LockALifeCreator,
+    _tooltip = DeadDaysStory.LockALifeCreator_tooltip,
+}
+
+option DeadDaysStory.ConvoysEnabled = {
+    type = boolean, default = true,
+    page = DeadDaysStory_2World, translation = DeadDaysStory.ConvoysEnabled,
+    _tooltip = DeadDaysStory.ConvoysEnabled_tooltip,
+}

@@ -1,0 +1,8 @@
+name=Dead Days: Storyteller
+id=DeadDaysStoryteller
+author=Dead Days
+modversion=0.3.0
+versionMin=42.21.0
+description=A story director for Project Zomboid. Every world gets its own saga: a cast with secrets, factions at war, twists planned from day one, and choices that change who shoots at you. Procedural missions into bandit country, daily ops, branching dialogue, buddies and convoys. Built on Project A-Life NPCs.
+poster=poster.png
+require=\ProjectALifeNPCs

@@ -1,0 +1,81 @@
+{
+  "model_id": "eleven_v4",
+  "voice_settings": { "stability": 0.45, "similarity_boost": 0.8 },
+
+  "library_to_add": {
+    "Sadie - Calm, Gritty & Expressive":      { "voice_id": "bD9maNcCuQQS75DGuteM", "owner": "27b9a4bbefcfb01531c136517a84c46b7376b8d523b98fae9997f37a44aff9a5" },
+    "Madeline Brousseaux - Southern alto":    { "voice_id": "XescS24CsOySAkKrLAO3", "owner": "e33eb547f8af39719b57253a6230915455d19c17d3f7781cabe273337a2e5df2" },
+    "Camilla Montgomery":                     { "voice_id": "IU69j3wyvZEJus9nCIiG", "owner": "e33eb547f8af39719b57253a6230915455d19c17d3f7781cabe273337a2e5df2" },
+    "Tiffany - Gritty, Articulate and Calm":  { "voice_id": "x9leqCOAXOcmC5jtkq65", "owner": "efba40d5d86c6dd1af1d20cf2be292869d82ca928d0a2d8ab30f47defd2dd7a9" },
+    "Juliet - Dark Villain Character":        { "voice_id": "Zcmn5ok6KSaf2Tikziif", "owner": "7398804d9eaf2f463899a907587c33a390591775784f87857b6d0e1e4e3e66f6" },
+    "Jessica (Southern, gritty)":             { "voice_id": "QPiKsgBQHGMp4YKh2S1c", "owner": "44934b26de020c5b569dba94b82490fd42aa04d4fb3f701d5d01a734621db44e" },
+    "Jade - Edgy and Nonchalant":             { "voice_id": "FCYF8vBfwu11whOhvb94", "owner": "64cbc624eb5aab4e95a968e1f41d75402277cca6e549036ed17e56ea33bbbc9e" },
+    "Kathie - Sassy & Playful":               { "voice_id": "o9B86nZP8mMLaT5FBEzP", "owner": "624f7274a0168e70b3b8d8da6b5c3892c9922ad186cb78f8d002a9abac6a2de4" },
+    "Olivia - Storytelling, Conversational":  { "voice_id": "MJw0jtAmgm4D71m0HUJU", "owner": "138dd1fab76ebbfccc8be9d41c7a6260e3436750341865d3163a7ffb76c5fcc7" },
+    "Mora - Gritty and Enigmatic":            { "voice_id": "YHcCpa6SBWnKDaCPZJQR", "owner": "64cbc624eb5aab4e95a968e1f41d75402277cca6e549036ed17e56ea33bbbc9e" },
+    "Tisha (Southern)":                       { "voice_id": "4wSdtVjoBKPAQAXgUGZE", "owner": "919ce200d2cdef4a1284e0649fd4bcae4140a00811c7cdbb1af0c88d712ab940" },
+    "Susan":                                  { "voice_id": "YzrnvkRH5LmJq8EeoZ0d", "owner": "e2b8edabbdee3ffb2905e0932643f7a01793e111514f1475957806d0c8a7f506" },
+    "Meaghan":                                { "voice_id": "mrmaApeLxpgZi4RK7oGq", "owner": "6ee30dd5a46fe2743d8eb1d6c1528a17cd5557b79bb63e2ffc775efd3cf941d2" },
+    "Zoe - Charismatic, Gritty and Engaging": { "voice_id": "M6ic45wruJGWAxLFEMNK", "owner": "64cbc624eb5aab4e95a968e1f41d75402277cca6e549036ed17e56ea33bbbc9e" },
+    "Eliza - Elegant & Lovely":               { "voice_id": "4qGY1svUBZLI7l8Ei9WW", "owner": "e8f7bd8cc98a32ad67887b8cbd296bee30b861c8d55bf3079376012f28097316" }
+  },
+
+  "voices": {
+    "contact.survivor.m":   "YEkUdc7PezGaXaRslSHB",
+    "contact.survivor.f":   "bD9maNcCuQQS75DGuteM",
+    "contact.caretaker.m":  "iP95p4xoKVk53GoZ742B",
+    "contact.caretaker.f":  "XescS24CsOySAkKrLAO3",
+
+    "doctor.idealist.m":    "cjVigY5qzO86Huf0OWal",
+    "doctor.idealist.f":    "hpp4J3VqNfWAUOO0d1Us",
+    "doctor.burnout.m":     "mF4VbXkNlBwwiZTqb060",
+    "doctor.burnout.f":     "IU69j3wyvZEJus9nCIiG",
+
+    "officer.bythebook.m":  "Z2yQ1EdlDmcIgh9Pn4Lw",
+    "officer.bythebook.f":  "x9leqCOAXOcmC5jtkq65",
+    "officer.burnedout.m":  "AXq2CqzJWpuMWAPoG3BH",
+    "officer.burnedout.f":  "XrExE9yKIg1WjnnlVkGX",
+
+    "warlord.psychotic.m":  "2gPFXx8pN3Avh27Dw5Ma",
+    "warlord.psychotic.f":  "Zcmn5ok6KSaf2Tikziif",
+    "warlord.provider.m":   "WzVKtqQpTUUQ2JNx8YxI",
+    "warlord.provider.f":   "QPiKsgBQHGMp4YKh2S1c",
+
+    "lieutenant.psychotic.m": "N2lVS1w4EtoT3dr4eOWO",
+    "lieutenant.follower.m":  "507tTFX0IPtqFzGd1CAL",
+
+    "informant.opportunist.m": "CwhRBWXzGAHq8TQ4Fs17",
+    "informant.opportunist.f": "FCYF8vBfwu11whOhvb94",
+    "informant.scared.m":      "bIHbv24MWmeRgasZH58o",
+    "informant.scared.f":      "EXAVITQu4vr4xnSDxMaL",
+
+    "lost.angry.m":  "TX3LPaxmHKxFdv7VOQHJ",
+    "lost.angry.f":  "o9B86nZP8mMLaT5FBEzP",
+    "lost.quiet.m":  "ONDvNbQlcvylHiPjYL4U",
+    "lost.quiet.f":  "MJw0jtAmgm4D71m0HUJU",
+
+    "buddy_steady.m":   "nPczCjzI2devNBz1zQrb",
+    "buddy_steady.f":   "mrmaApeLxpgZi4RK7oGq",
+    "buddy_grim.m":     "0eVhCITWa3kkaZgsQsVd",
+    "buddy_grim.f":     "YHcCpa6SBWnKDaCPZJQR",
+    "buddy_dry.m":      "erLaZvTFBCJD969knK8N",
+    "buddy_dry.f":      "cgSgspJ2msm6clMCkdW9",
+    "buddy_faithful.m": "pqHfZKP75CvOlQylNhV4",
+    "buddy_faithful.f": "YzrnvkRH5LmJq8EeoZ0d",
+    "buddy_angry.m":    "SOYHLrjzK2X1ezoPC6cr",
+    "buddy_angry.f":    "M6ic45wruJGWAxLFEMNK",
+
+    "pal.m": "06oPEcZqPWhZ2IeTcOJc",
+    "pal.f": "4qGY1svUBZLI7l8Ei9WW",
+
+    "command.m":   "pNInz6obpgDQGcFmaJgB",
+    "private.m":   "11JUpgNlQsWfppULB2T8",
+    "tollman.m":   "507tTFX0IPtqFzGd1CAL",
+    "spokesman.m": "hU9xpIwLBrQ7ueYNjP7b",
+    "sib.m":       "TX3LPaxmHKxFdv7VOQHJ",
+    "fam.f":       "YzrnvkRH5LmJq8EeoZ0d",
+    "surv.f":      "4wSdtVjoBKPAQAXgUGZE"
+  },
+
+  "default": { "m": "vNXqylVACQFTw5rT363o", "f": "4wSdtVjoBKPAQAXgUGZE" }
+}

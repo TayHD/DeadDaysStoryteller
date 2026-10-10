@@ -1,0 +1,12 @@
+# Generated voice pack (ships on the Workshop; regenerate with tools/Generate-Voices.ps1)
+mod/DeadDaysStoryteller/common/media/sound/dds_voice/*.ogg
+
+# Local tool binaries and scratch
+tools/ffmpeg/
+*.tmp
+*.pcm
+
+# Never commit server data or secrets
+*.ini
+*.bak*
+admin-credentials*

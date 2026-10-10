@@ -1,0 +1,16 @@
+{
+    "Sandbox_DeadDaysStory_1Story": "Dead Days - STORY",
+    "Sandbox_DeadDaysStory_2World": "Dead Days - CONVOYS",
+    "Sandbox_DeadDaysStory.BuddyMortal": "Buddies can die",
+    "Sandbox_DeadDaysStory.BuddyMortal_tooltip": "Off (default): buddies can be hurt but never killed by gunfire or the infected; only the story can take them. On: a buddy who dies stays dead, permanently.",
+    "Sandbox_DeadDaysStory.DailyOps": "Daily ops per day",
+    "Sandbox_DeadDaysStory.DailyOps_tooltip": "Small jobs posted every morning at 6:00. Finishing all of them builds a streak; a 3+ day streak gives bonus XP.",
+    "Sandbox_DeadDaysStory.MaxLeads": "Open side leads per player",
+    "Sandbox_DeadDaysStory.MaxLeads_tooltip": "How many side missions (offered or active) the director keeps on a player's plate at once. Story chapters and daily ops don't count.",
+    "Sandbox_DeadDaysStory.IncidentRate": "Incident chance (%)",
+    "Sandbox_DeadDaysStory.IncidentRate_tooltip": "Chance, checked every 10 in-game minutes once 8 hours have passed since the last one, that something happens to a player: a distress call, or a raid if the warlord's faction is strong.",
+    "Sandbox_DeadDaysStory.LockALifeCreator": "Lock the A-Life Creator and admin spawn menus",
+    "Sandbox_DeadDaysStory.LockALifeCreator_tooltip": "Hides Project A-Life's Creator and right-click spawn menus from everyone, including admins. The story system creates and spawns everything. Turn off to use the Creator yourself.",
+    "Sandbox_DeadDaysStory.ConvoysEnabled": "Roving convoys",
+    "Sandbox_DeadDaysStory.ConvoysEnabled_tooltip": "Faction convoys travel the roads off-screen and stop at rest points. Near a player they appear as real vehicles with an armed escort you can ambush, avoid or follow."
+}

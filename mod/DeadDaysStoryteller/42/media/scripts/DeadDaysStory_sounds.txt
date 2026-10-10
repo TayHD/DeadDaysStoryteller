@@ -1,0 +1,47 @@
+module Base
+{
+    sound DDSRadioOpen
+    {
+        category = UI,
+        is3D = false,
+        clip
+        {
+            file = media/sound/dds_radio/dds_radio_open.wav,
+            volume = 0.55,
+        }
+    }
+
+    sound DDSRadioClose
+    {
+        category = UI,
+        is3D = false,
+        clip
+        {
+            file = media/sound/dds_radio/dds_radio_close.wav,
+            volume = 0.55,
+        }
+    }
+
+    sound DDSRadioStatic
+    {
+        category = UI,
+        is3D = false,
+        loop = true,
+        clip
+        {
+            file = media/sound/dds_radio/dds_radio_static.wav,
+            volume = 0.12,
+        }
+    }
+
+    sound DDSRadioIncoming
+    {
+        category = UI,
+        is3D = false,
+        clip
+        {
+            file = media/sound/dds_radio/dds_radio_incoming.wav,
+            volume = 0.6,
+        }
+    }
+}
